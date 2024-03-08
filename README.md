@@ -1,4 +1,4 @@
-# Vox-Postgresql-Service
+#Postgresql-Service
 
 ### Prerequisites:
 
